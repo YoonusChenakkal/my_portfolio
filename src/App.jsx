@@ -1067,7 +1067,7 @@ export default function Portfolio() {
               <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-cyan-500 rounded-full blur-3xl opacity-20 animate-pulse"></div>
               <div className="absolute inset-8 bg-gradient-to-br from-gray-800 to-gray-900 rounded-full border border-emerald-500/30 overflow-hidden">
                 <img
-                  src="/src/assets/yoonus_bg_removed.png"
+                  src="/assets/yoonus_bg_removed.png"
                   alt="Yoonus Chenakkal"
                   className="w-full h-full object-cover object-top grayscale scale-110"
                   style={{
